@@ -1,4 +1,5 @@
 # Algorithms-and-Data-Structures
+This is the Final Project for the *Algorithms and Data Structures* course (Politecnico di Milano)
 
 ## Topic
 To implement a monitoring mechanism of relationships between entities (for example people) that change over time
@@ -21,3 +22,8 @@ The application must be optimized to manage a large number of entities and relat
 * Standard C language implementation (with *libc only*) of a program that reads a sequence of commands from standard input,
 each corresponding to a change in the entities or in the relationships between entities and, when required, produces on standard output,
 for each type of monitored relationship, the identifier of the entity that is the recipient of the largest number of instances of that relationship, and the number of relationships that the entity receives
+
+## The code
+**main.c** contains the program implemented
+
+**file.in** contains the given input while **file.out** contains the expected output
