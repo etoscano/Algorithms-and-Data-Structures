@@ -1,5 +1,6 @@
 # Algorithms-and-Data-Structures
 This is the Final Project for the *Algorithms and Data Structures* course (Politecnico di Milano)
+
 July - Sep. 2019
 
 ## Topic
